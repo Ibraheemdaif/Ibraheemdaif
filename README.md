@@ -50,6 +50,5 @@ I am **Ibraheem Daif**, a **Software Engineering student @Al-Azhar University**.
 
 ---
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ibraheemdaif&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ibraheemdaif&show_icons=true&theme=dark)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Ibraheemdaif&color=blue&style=flat-square)
