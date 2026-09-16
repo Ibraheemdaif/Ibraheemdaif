@@ -23,7 +23,6 @@ I am **Ibraheem Daif**, a **Software Engineering student @Al-Azhar University**.
 ## 📐 Architecture, Concepts & Core Foundations
 
 ![System Design](https://img.shields.io/badge/-System%20Design-181717?style=flat-square&logo=diagram-next&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP%20%26%20Design%20Patterns-4A154B?style=flat-square&logo=codewars&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-2C3E50?style=flat-square&logo=blueprint&logoColor=white)
 ![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=flat-square&logo=codeforces&logoColor=white)
