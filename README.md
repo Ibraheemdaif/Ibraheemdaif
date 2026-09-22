@@ -22,7 +22,6 @@ I am **Ibraheem Daif**, a **Software Engineering student @Al-Azhar University**.
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ## 📐 Architecture, Concepts & Core Foundations
 
-![System Design](https://img.shields.io/badge/-System%20Design-181717?style=flat-square&logo=diagram-next&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP%20%26%20Design%20Patterns-4A154B?style=flat-square&logo=codewars&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/-SOLID%20Principles-2C3E50?style=flat-square&logo=blueprint&logoColor=white)
 ![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-orange?style=flat-square&logo=codeforces&logoColor=white)
